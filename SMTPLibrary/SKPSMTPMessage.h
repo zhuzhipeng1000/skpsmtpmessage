@@ -28,7 +28,7 @@
 //
 
 #import <CFNetwork/CFNetwork.h>
-
+#import <Foundation/Foundation.h>
 enum 
 {
     kSKPSMTPIdle = 0,
